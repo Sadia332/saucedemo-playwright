@@ -16,11 +16,13 @@ The project automates key user workflows like login, product sorting, cart updat
 
 ## 🔍 Test Scenarios Covered
 
-- 🔐 Valid and Invalid Login
-- 🛒 Add/Remove products to/from cart
-- 🔄 Sort products (Low to High, High to Low, etc.)
+- 🔐 Valid Login
+- 🛒 Add products to/from cart
+- 🔄 Sort products (Low to High.)
 - ✅ Checkout process (user info, order summary, confirmation)
-- ❌ Error handling (empty fields, wrong credentials)
+- Order Confirm
+- Back to the Home page
+  
 
-## 📂 Project Structure
+
 
